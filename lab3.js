@@ -8,7 +8,7 @@ let favoriteFruits = [
 //Make sure it logs correctly
 console.log(favoriteFruits);
 
-//replace teh first and fourth fruit in the Array
+//replace the first and fourth fruit in the Array
 function changedMyMind(fruit1, fruit4) {
     favoriteFruits[0] = fruit1;
     favoriteFruits[3] = fruit4;
